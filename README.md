@@ -3,6 +3,8 @@
 ![Backend devoloper ](https://scontent.fcai20-4.fna.fbcdn.net/v/t1.18169-9/16997726_1409701652446999_7537991839538826318_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=ad2b24&_nc_ohc=K5QfP2qGu8UAX-7pfrh&_nc_ht=scontent.fcai20-4.fna&oh=00_AT-cYOVN5Zse7q5PHaxFdcYKDhPZOA_pNC0yuff7x24f5w&oe=62932CD1)
 
 I'm Ramadan Ewis. I have one and a half years of experience in web development. I have customers who have made sites and these are the courses I took. , i'm excellent html 5 & css 3 & javascript,.bootstrap4 ,php,larval ,mysql,sql Thanks blush
+my cv
+http://ramdanewis.mypressonline.com/
 
 Skills: PHP / Laravel / JS / HTML / CSS/Bootstrap
 
