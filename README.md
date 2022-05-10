@@ -4,7 +4,8 @@
 
 I'm Ramadan Ewis. I have one and a half years of experience in web development. I have customers who have made sites and these are the courses I took. , i'm excellent html 5 & css 3 & javascript,.bootstrap4 ,php,larval ,mysql,sql Thanks blush
 my cv
-http://ramdanewis.mypressonline.com/
+https://ramadanewis.rf.gd/
+
 
 Skills: PHP / Laravel / JS / HTML / CSS/Bootstrap
 
