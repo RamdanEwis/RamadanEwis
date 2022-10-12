@@ -3,8 +3,8 @@
 
 
 I'm Ramadan Ewis. I have one and a half years of experience in web development. I have customers who have made sites and these are the courses I took. , i'm excellent html 5 & css 3 & javascript,.bootstrap4 ,php,larval ,mysql,sql Thanks blush
-my cv
-https://ramadanewis.com/
+my site
+https://ramadanewais.com/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RamdanEwis&label=Profile%20views&color=0e75b6&style=flat" alt="RamdanEwis" /> </p>
 
