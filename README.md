@@ -6,10 +6,10 @@ I'm Ramadan Ewis. I have one and a half years of experience in web development. 
 my site
 https://ramadanewais.com/
 <!-- Show Image in github https://raw.githubusercontent.com/UserName/NameRepo/Branch/NameImg.png -->
-<!-- https://raw.githubusercontent.com/RamdanEwis/RamdanEwis/main/15732232_759433250875826_2396537582286499617_o.jpg -->
+<!-- https://raw.githubusercontent.com/RamdanEwis/RamdanEwis/main/15732232_759433250875826_2396537582286499617_o.jpg 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RamdanEwis&label=Profile%20views&color=0e75b6&style=flat" alt="RamdanEwis" /> </p>
-
+-->
 
 
 Skills: PHP / Laravel / JS / HTML / CSS/Bootstrap
