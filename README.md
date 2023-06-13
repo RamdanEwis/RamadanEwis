@@ -25,6 +25,3 @@ Skills: PHP / Laravel / JS / HTML / CSS/Bootstrap
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RamdanEwis&show_icons=true&count_private=true)  
 -->
-<div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RamdanEwis&show_icons=true&theme=onedark&line_height=27" alt="Ramdan Ewis github stats"/>
-</div>
